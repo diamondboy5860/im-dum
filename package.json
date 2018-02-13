@@ -1,0 +1,15 @@
+{
+  "name": "Evisocrat",
+  "description": "THE TING GOES SKRAAA! PAT PAT PAT KAT KAT.",
+  "version": "0.0.9",
+  "main": "sharding.js",
+  "scripts": {
+    "start": "node Sharding.js"
+  },
+  "dependencies": {
+    "discord.js node-opus": "11.1.0",
+    "request": "2.81.0",
+    "ytdl-core" :  "github:fent/node-ytdl-core#master",
+    "node-opus": "^2.3.0"
+  }
+}
